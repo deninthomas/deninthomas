@@ -2,7 +2,7 @@
 
 ## A passionate MERN Stack Developer | Lifelong Learner 🚀
 
-Welcome to my GitHub! I'm a **MERN Stack Developer** with expertise in **JavaScript, Node.js, React, C++, Python, Flutter**, and more. I love solving problems through code, building scalable web applications, and continuously learning new technologies to enhance my skills.
+Welcome to my GitHub! I'm a **MERN Stack Developer** with expertise in **JavaScript, Node.js, React **, and more. I love solving problems through code, building scalable web applications, and continuously learning new technologies to enhance my skills.
 
 🌱 **Currently Learning:**
 - Advanced **React** & **Redux** &**NextJS**
@@ -66,7 +66,6 @@ Welcome to my GitHub! I'm a **MERN Stack Developer** with expertise in **JavaScr
 
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 [![Stars](https://img.shields.io/github/stars/your-github-username?label=Stars&style=social)](https://github.com/your-github-username)
-[![Forks](https://img.shields.io/github/forks/your-github-username?label=Forks&style=social)](https://github.com/your-github-username)
 [![Issues](https://img.shields.io/github/issues/your-github-username/your-repo-name?label=Issues&style=plastic)](https://github.com/your-github-username/your-repo-name/issues)
 
 
