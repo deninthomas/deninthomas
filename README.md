@@ -7,15 +7,14 @@ Welcome to my GitHub! I'm a **MERN Stack Developer** with expertise in **JavaScr
 🌱 **Currently Learning:**
 - Advanced **React** & **Redux** &**NextJS**
 - Exploring **Machine Learning** with **Python**
-- Deep diving into **Firebase** for real-time database integration
 - Expanding my knowledge of **SQL** and **NoSQL** databases
 
 ## 🛠️ Technologies & Tools I Use:
 
 - **Frontend:**
   - React.js
-  - Flutter
-  - HTML5 | CSS3 | Sass | Bootstrap | Material UI
+  - Next.js
+  - HTML5 | CSS3 | Bootstrap | Material UI
   
 - **Backend:**
   - Node.js | Express.js
