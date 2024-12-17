@@ -50,13 +50,9 @@ Welcome to my GitHub! I'm a **MERN Stack Developer** with expertise in **JavaScr
 ### My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
-### Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-### Wakatime Stats (Optional if you use Wakatime)
-[![Wakatime](https://wakatime.com/badge/user/your-wakatime-username.svg)](https://wakatime.com/@your-wakatime-username)
 
----
+
 
 ## 🚀 GitHub Trophies
 
@@ -64,11 +60,7 @@ Welcome to my GitHub! I'm a **MERN Stack Developer** with expertise in **JavaScr
 
 ---
 
-## 🏆 GitHub Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
----
 
 ## 🎯 Achievements & Badges
 
